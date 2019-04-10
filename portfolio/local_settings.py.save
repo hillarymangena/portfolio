@@ -1,0 +1,14 @@
+SECRET_KEY = '%20n=3#zi((apgh8lqv9*x17pmbv@scp)-%delt3}24k9mr&9o%3(08h'
+
+ALLOWED_HOSTS = ['138.68.93.55']
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'portdb',
+        'USER': 'hillarydjangodb',
+        'PASSWORD': 'hendrix44',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
