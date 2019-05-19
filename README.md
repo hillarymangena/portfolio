@@ -11,4 +11,3 @@ Gunicorn
 Nginx
 and of course, GIT
 
-Site can be viewed here: 138.68.93.55
